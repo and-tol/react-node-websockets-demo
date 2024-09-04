@@ -1,0 +1,16 @@
+{
+  "name": "nodereact",
+  "version": "1.1.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Avanthika",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0",
+    "ws": "^8.18.0"
+  }
+}
